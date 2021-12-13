@@ -8,6 +8,8 @@ Thay đổi phông chữ : Google Sans
 
 Android tối thiểu : 5.0+
 
+Ủng hộ mình bằng cách để lại 1 đăng ký trên YouTube : [Đăng ký kênh](https://youtube.com/cuynudtw)
+
 Tải TikTok MOD về tại đây : 
 
 <a href="https://github.com/cuynu/TikTok-Mod/releases/download/22.4.3/TikTok_22.4.3.apk">
