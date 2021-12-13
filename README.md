@@ -1,6 +1,6 @@
 TikTok MOD 
 
-Phiên bản : v22.3.4
+Phiên bản : v22.4.3
 
 Xóa Logo TikTok khi tải về, Duet và Stitch mọi video
 
