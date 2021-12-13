@@ -15,3 +15,6 @@ Tải TikTok MOD về tại đây :
 </a>
 
 [Hình ảnh minh họa]
+![Exmaple](https://files.catbox.moe/c6bpiu.png)
+
+![Exmaple](https://files.catbox.moe/fvap3b.png)
