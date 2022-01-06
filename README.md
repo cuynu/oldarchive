@@ -1,12 +1,12 @@
 TikTok MOD 
 
-Phiên bản : v22.6.4
+Phiên bản : v22.7.2
 
 Xóa Logo TikTok khi tải về, Duet và Stitch mọi video
 
 Thay đổi phông chữ : Google Sans
 
-Android tối thiểu : 5.0+
+Android tối thiểu : 5.0+ (Nên dùng 6.0 trở lên)
 
 Ủng hộ mình bằng cách để lại 1 đăng ký trên YouTube : [Đăng ký kênh](https://youtube.com/cuynudtw)
 
