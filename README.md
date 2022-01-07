@@ -1,6 +1,6 @@
 TikTok MOD 
 
-Phiên bản : v22.7.2
+Phiên bản : v22.7.4
 
 Xóa Logo TikTok khi tải về, Duet và Stitch mọi video
 
@@ -12,7 +12,7 @@ Android tối thiểu : 5.0+ (Nên dùng 6.0 trở lên)
 
 Tải TikTok MOD về tại đây : 
 
-<a href="https://github.com/cuynu/TikTok-Mod/releases/download/22.7.2/TikTok.22.7.2.apk">
+<a href="https://github.com/cuynu/TikTok-Mod/releases/download/22.7.4/TikTok.22.7.4.apk">
 <img alt="Tải TikTok Mod" src="https://files.catbox.moe/qyje1w.png" width="300" height="100" />
 </a>
 
