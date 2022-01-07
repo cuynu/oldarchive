@@ -8,7 +8,7 @@ Thay đổi phông chữ : Google Sans
 
 Android tối thiểu : 5.0+ (Nên dùng 6.0 trở lên)
 
-Ủng hộ mình bằng cách để lại 1 đăng ký trên YouTube : [Đăng ký kênh](https://youtube.com/cuynudtw)
+Ủng hộ mình bằng cách để lại 1 đăng ký trên YouTube : [Đăng ký kênh](https://youtube.com/cuynudtw) và Follow TikTok [@meat_789](https://tiktok.com/@meat_789)
 
 Tải TikTok MOD về tại đây : 
 
