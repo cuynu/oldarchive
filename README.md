@@ -1,6 +1,6 @@
-TikTok MOD 
+**TikTok Mod**
 
-Phiên bản : v22.7.4
+Phiên bản : **v22.7.4**
 
 Xóa Logo TikTok khi tải về, Duet và Stitch mọi video
 
@@ -8,9 +8,9 @@ Thay đổi phông chữ : Google Sans
 
 Android tối thiểu : 5.0+ (Nên dùng 6.0 trở lên)
 
-Ủng hộ mình bằng cách để lại 1 đăng ký trên YouTube : [Đăng ký kênh](https://youtube.com/cuynudtw) và Follow TikTok [@meat_789](https://tiktok.com/@meat_789)
+Ủng hộ mình bằng cách để lại 1 đăng ký trên YouTube : [Đăng ký kênh](https://youtube.com/cuynudtw) hoặc Follow TikTok [@meat_789](https://tiktok.com/@meat_789)
 
-Tải TikTok MOD về tại đây : 
+**Tải TikTok MOD về tại đây :**
 
 <a href="https://github.com/cuynu/TikTok-Mod/releases/download/22.7.4/TikTok.22.7.4.apk">
 <img alt="Tải TikTok Mod" src="https://files.catbox.moe/qyje1w.png" width="300" height="100" />
