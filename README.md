@@ -2,6 +2,10 @@
 
 Phiên bản hiện tại : **v22.8.3**
 
+Bạn muốn tải xuống phiên bản cũ ? :
+
+ [TikTok Mod Phiên bản cũ](https://github.com/cuynu/TikTok-Mod/releases)
+
 Xóa Logo TikTok khi tải về, Duet và Stitch mọi video
 
 Thay đổi phông chữ : Google Sans
