@@ -1,6 +1,6 @@
 **TikTok Mod**
 
-Phiên bản hiện tại : **v22.9.5 (22/1/2022)**
+Phiên bản hiện tại : **v23.0.4 (25/1/2022)**
 
 Bạn muốn tải xuống phiên bản cũ ? :
 
@@ -16,7 +16,7 @@ Android tối thiểu : 6.0+ (Nên dùng 7.1 trở lên)
 
 **Tải TikTok MOD về tại đây :**
 
-<a href="https://github.com/cuynu/TikTok-Mod/releases/download/22.9.5/TikTok_22.9.5.apk">
+<a href="https://github.com/cuynu/TikTok-Mod/releases/download/23.0.4/TikTok_23.0.4.apk">
 <img alt="Tải TikTok Mod" src="https://files.catbox.moe/qyje1w.png" width="300" height="100" />
 </a>
 
