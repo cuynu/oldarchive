@@ -16,7 +16,7 @@ Android tối thiểu : 6.0+ (Nên dùng 7.1 trở lên)
 
 **Tải TikTok MOD về tại đây :**
 
-<a href="https://github.com/cuynu/TikTok-Mod/releases/download/23.1.3/TikTok_23.1.3.apk">
+<a href="https://github.com/cuynu/TikTok-Mod/releases/download/23.2.3/TikTok_23.2.3.apk">
 <img alt="Tải TikTok Mod" src="https://files.catbox.moe/qyje1w.png" width="300" height="100" />
 </a>
 
