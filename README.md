@@ -1,6 +1,6 @@
 **TikTok Mod**
 
-Phiên bản hiện tại : **v23.1.3 (30/1/2022)**
+Phiên bản hiện tại : **v23.2.3 (15/2/2022)**
 
 Bạn muốn tải xuống phiên bản cũ ? :
 
