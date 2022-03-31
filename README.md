@@ -2,6 +2,8 @@
 
 Đã dừng phát triển./Stopped Development.
 
+[Lý do ngừng phát triển/hủy bỏ dự án](https://github.com/cuynu/TikTok-Mod/wiki/Wiki)
+
 
 Phiên bản hiện tại : **v23.3.4 (20/2/2022)**
 
