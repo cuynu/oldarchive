@@ -33,9 +33,9 @@ Có thể đăng nhập bằng Facebook hoặc Số điện thoại/Email/TikTok
 Không thể đăng nhập Google, nếu bạn muốn đăng nhập Tài khoản TikTok liên kết bằng đăng nhập Google, hãy liên kết Số điện thoại hoặc Email và đăng nhập TikTok của bạn bằng Số điện thoại hoặc Email
 
 [Hình ảnh minh họa]
-![Exmaple](https://files.catbox.moe/c6bpiu.png)
+![Exmaple](https://files.catbox.moe/pmuzqo.png)
 
-![Exmaple](https://files.catbox.moe/fvap3b.png)
+![Exmaple](https://files.catbox.moe/pp7swx.png)
 
 Nên sử dụng phiên bản mới nhất để có trải nghiệm tốt nhất !!
 
