@@ -27,7 +27,7 @@ Android tối thiểu : 6.0+ (Nên dùng 7.1 trở lên)
 
 
 Thống kê số lần tải về :
-[![GitHub Releases](https://img.shields.io/github/downloads/cuynu/tiktok-mod/latest/total?logo=github)](https://github.com/cuynu/tiktok-mod/releases)
+[![GitHub Releases](https://img.shields.io/github/downloads/cuynu/tiktok-mod/total?logo=github)](https://github.com/cuynu/tiktok-mod/releases)
 
 Có thể đăng nhập bằng Facebook hoặc Số điện thoại/Email/TikTok ID.
 Không thể đăng nhập Google, nếu bạn muốn đăng nhập Tài khoản TikTok liên kết bằng đăng nhập Google, hãy liên kết Số điện thoại hoặc Email và đăng nhập TikTok của bạn bằng Số điện thoại hoặc Email
